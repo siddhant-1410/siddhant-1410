@@ -25,11 +25,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant-1410&show_icons=true&locale=en&layout=compact" alt="siddhant-1410" /></p>
 
-
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
