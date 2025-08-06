@@ -1,6 +1,4 @@
 
-
-preview
 <h1 align="center">Hi 👋, I'm Siddhant Gupta</h1>
 <h3 align="center">Software Engineer with interest in Machine Learning, NLP, Gen-AI, AI-Agents and Recommender Systems</h3>
 
