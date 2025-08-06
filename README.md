@@ -15,6 +15,7 @@
 - 💬 Ask me about **ML, DL, Gen-AI, NLP, Recommenders**
 - 📫 Reach me at: **siddhant.gupta1410@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1zgly_BJdxzNa5W4_eLuEsbKxvKBWyb1w/view?usp=sharing)
+<img width="505" height="182" alt="lc" src="https://github.com/user-attachments/assets/33a7ea57-9320-45bd-9afe-49a74e4958b0" />
 
 ---
 
@@ -52,7 +53,4 @@
 </p>
 
 ---
-
-<!-- Snake contribution graph -->
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
